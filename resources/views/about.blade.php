@@ -35,8 +35,8 @@
     </nav>
     <body class="bg-black">
       <div class="container mx-auto px-4">
-        <div class="flex mb-4">
-          <div class="lg:w-1/2 sm:w-auto">
+        <div class="flex flex-wrap mb-4">
+          <div class="lg:w-1/2">
             <div class="flex bg-cover bg-center w-64 h-64 mt-24 lg:mx-16 rounded-full flex shadow-lg border-4 border-white" alt="Justin Tannenbaum" style="background-image: url(images/justin-tannenbaum.jpg)">
             </div>
             <div class="mt-8 lg:mx-24">
@@ -74,12 +74,12 @@
               </a>
             </div>
           </div>
-          <div class="lg:w-1/2 sm:w-auto">
+          <div class="lg:w-1/2">
             <p class="font-display text-lg text-white ml-6 mr-4 mt-24">
               Hey y'all, I am a strategic digital product leader based in Nashville, TN. I consult & freelance on product design, development, and management through my company JET Digital. I’m passionate about building empathetic user experiences and enjoy working on teams that believe in leveraging technology to make the world a better place.
             </p>
             <p class="font-display text-lg text-white ml-6 mr-4 mt-12">
-              In my free time, I am into golf, food, and The Unversity of Tennessee Atheltics.
+              In my free time, I enjoy golf, food, and the Unversity of Tennessee atheltics.
             </p>
             <p class="font-display text-xl text-white ml-6 mr-4 mt-12">
               <b>Experience</b>

@@ -34,5 +34,18 @@
         </div>
     </nav>
     <body class="bg-black">
+        <div class="container mx-auto px-4">
+            <div class="font-display text-white text-5xl justify-center flex mt-24 mb-8">
+                <h1>Welcome to my product portfolio.</h1>
+            </div>
+            <div class="flex flex-wrap mt-12 mb-4">
+                <div class="lg:w-1/3 bg-gray-500 h-64">
+                    
+                </div>
+                <div class="lg:w-2/3 bg-white h-64">
+                    
+                </div>
+            </div>
+        </div>
     </body>
 </html>
