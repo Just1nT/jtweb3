@@ -22,13 +22,16 @@
         <div class="relative right-0 w-full block flex-grow lg:flex lg:absolute lg:items-center lg:w-auto mr-8">
             <div class="font-display text-md lg:flex-grow">
                 <a href="/" class="block mt-4 lg:inline-block lg:mt-0 text-white mr-6">
-                    Work
+                  Work
                 </a>
                 <a href="/about" class="block mt-4 lg:inline-block lg:mt-0 text-white mr-6">
-                    About
+                  About
+                </a>
+                <a href="/about" class="block mt-4 lg:inline-block lg:mt-0 text-white mr-6">
+                  Blog
                 </a>
                 <a href="mailto:justinedwardtannenbaum@gmail.com" class="block mt-4 mr-6 lg:inline-block lg:mt-0 text-white">
-                    Contact
+                  Contact
                 </a>
             </div>
         </div>
@@ -38,7 +41,7 @@
         <div class="flex flex-wrap mb-4">
           <div class="lg:w-1/2">
             <div class="flex bg-cover bg-center w-64 h-64 mt-24 lg:mx-16 rounded-full flex shadow-lg border-4 border-white" alt="Justin Tannenbaum" style="background-image: url(images/justin-tannenbaum.jpg)">
-            </div>
+          </div>
             <div class="mt-8 lg:mx-24">
               <a href="https://www.linkedin.com/in/justin-tannenbaum/" target="_blank">
                 <svg class="inline fill-current text-white ml-6" data-v-0a606064="" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 512 512">
