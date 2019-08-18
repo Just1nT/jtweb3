@@ -9,10 +9,9 @@
         <!-- Styles -->
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
     </head>
-    <nav class="flex items-center justify-between flex-wrap bg-black mt-4 p-6">
-        <div class="flex items-center flex-shrink-0 text-white lg:ml-8 mr-6">
-            <svg class="fill-current h-8 w-8 mr-2" width="54" height="54" viewBox="0 0 54 54" xmlns="http://www.w3.org/2000/svg"><path d="M13.5 22.1c1.8-7.2 6.3-10.8 13.5-10.8 10.8 0 12.15 8.1 17.55 9.45 3.6.9 6.75-.45 9.45-4.05-1.8 7.2-6.3 10.8-13.5 10.8-10.8 0-12.15-8.1-17.55-9.45-3.6-.9-6.75.45-9.45 4.05zM0 38.3c1.8-7.2 6.3-10.8 13.5-10.8 10.8 0 12.15 8.1 17.55 9.45 3.6.9 6.75-.45 9.45-4.05-1.8 7.2-6.3 10.8-13.5 10.8-10.8 0-12.15-8.1-17.55-9.45-3.6-.9-6.75.45-9.45 4.05z"/></svg>
-            <span class="font-semibold text-xl tracking-tight">Justin Tannenbaum</span>
+    <nav class="flex items-center justify-between flex-wrap bg-white p-6">
+        <div class="flex items-center flex-shrink-0 text-black lg:ml-8 mr-6">
+            <span class="font-display font-semibold text-xl tracking-tight"><a href="/">Justin Tannenbaum</a></span>
         </div>
         <div class="block lg:hidden">
             <button class="flex items-center px-3 py-2 border rounded text-teal-200 border-teal-400 hover:text-white hover:border-white">
@@ -21,22 +20,22 @@
         </div>
         <div class="relative right-0 w-full block flex-grow lg:flex lg:absolute lg:items-center lg:w-auto mr-8">
             <div class="font-display text-md lg:flex-grow">
-                <a href="/" class="block mt-4 lg:inline-block lg:mt-0 text-white mr-6">
+                <a href="/" class="block mt-4 lg:inline-block lg:mt-0 text-black mr-6">
                   Work
                 </a>
-                <a href="/about" class="block mt-4 lg:inline-block lg:mt-0 text-white mr-6">
+                <a href="/about" class="block mt-4 lg:inline-block lg:mt-0 text-black mr-6">
                   About
                 </a>
-                <a href="/about" class="block mt-4 lg:inline-block lg:mt-0 text-white mr-6">
+                <a href="/about" class="block mt-4 lg:inline-block lg:mt-0 text-black mr-6">
                   Blog
                 </a>
-                <a href="mailto:justinedwardtannenbaum@gmail.com" class="block mt-4 mr-6 lg:inline-block lg:mt-0 text-white">
+                <a href="mailto:justinedwardtannenbaum@gmail.com" class="block mt-4 mr-6 lg:inline-block lg:mt-0 text-black">
                   Contact
                 </a>
             </div>
         </div>
     </nav>
-    <body class="bg-black">
+    <body class="bg-gray-100">
       <div class="container mx-auto px-4">
         <div class="flex flex-wrap mb-4">
           <div class="lg:w-1/2">
@@ -44,14 +43,14 @@
           </div>
             <div class="mt-8 lg:mx-24">
               <a href="https://www.linkedin.com/in/justin-tannenbaum/" target="_blank">
-                <svg class="inline fill-current text-white ml-6" data-v-0a606064="" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 512 512">
+                <svg class="inline fill-current text-black ml-6" data-v-0a606064="" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 512 512">
                   <path data-v-0a606064="" d="M29.675 177.275l92.784-1.157v303.831l-92.784 1.178v-303.851z"></path>
                   <path data-v-0a606064="" d="M200.141 177.275l88.658-1.126v38.646l0.021 10.947c26.255-25.744 53.32-45.2 96.563-45.2 51.016 0 100.362 21.381 100.362 91.034v208.435l-90 1.341v-159.232c0-35.103-8.796-57.733-50.719-57.733-36.935 0-52.398 6.615-52.398 55.214v160.399l-92.478 1.116v-303.841z"></path>
                   <path data-v-0a606064="" d="M127.836 81.449c0 28.051-22.74 50.79-50.79 50.79s-50.791-22.739-50.791-50.791c0-28.051 22.739-50.791 50.791-50.791 28.051 0 50.791 22.739 50.791 50.791z"></path>
                 </svg>
               </a>
               <a href="https://twitter.com/JETannenbaum" target="_blank">
-                <svg class="inline fill-current text-white ml-6" version="1.1" id="White" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25"
+                <svg class="inline fill-current text-black ml-6" version="1.1" id="White" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25"
                 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">>
                  <path class="st0" d="M400,200c0,110.5-89.5,200-200,200S0,310.5,0,200S89.5,0,200,0S400,89.5,400,200z M163.4,305.5
                    c88.7,0,137.2-73.5,137.2-137.2c0-2.1,0-4.2-0.1-6.2c9.4-6.8,17.6-15.3,24.1-25c-8.6,3.8-17.9,6.4-27.7,7.6
@@ -62,7 +61,7 @@
                 </svg>
               </a>
               <a href="https://github.com/Just1nT" target="_blank">
-                <svg class="inline fill-current text-white ml-6"data-v-0a606064="" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 32.6 31.8" xml:space="preserve">
+                <svg class="inline fill-current text-black ml-6"data-v-0a606064="" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 32.6 31.8" xml:space="preserve">
                   <style data-v-0a606064="" type="text/css">
                     .st0{fill-rule:evenodd;clip-rule:evenodd;}
                   </style>
@@ -78,70 +77,70 @@
             </div>
           </div>
           <div class="lg:w-1/2">
-            <p class="font-display text-lg text-white ml-6 mr-4 mt-24">
+            <p class="font-display text-lg text-black ml-6 mr-4 mt-24">
               Hey y'all, I am a strategic digital product leader based in Nashville, TN. I consult & freelance on product design, development, and management through my company JET Digital. I’m passionate about building empathetic user experiences and enjoy working on teams that believe in leveraging technology to make the world a better place.
             </p>
-            <p class="font-display text-lg text-white ml-6 mr-4 mt-12">
+            <p class="font-display text-lg text-black ml-6 mr-4 mt-12">
               In my free time, I enjoy golf, food, and the Unversity of Tennessee atheltics.
             </p>
-            <p class="font-display text-xl text-white ml-6 mr-4 mt-12">
+            <p class="font-display text-xl text-black ml-6 mr-4 mt-12">
               <b>Experience</b>
             </p>
-            <p class="font-display text-sm text-white ml-6 mr-4 mt-4">
+            <p class="font-display text-sm text-black ml-6 mr-4 mt-4">
               <b>JAN 2019 - PRESENT</b>
             </p>
-            <p class="font-display text-lg text-white ml-6 mr-4">
+            <p class="font-display text-lg text-black ml-6 mr-4">
               Principal, JET Digital
             </p>
-            <p class="font-display text-sm text-white ml-6 mr-4 mt-4">
+            <p class="font-display text-sm text-black ml-6 mr-4 mt-4">
               <b>JAN 2017 - JAN 2019</b>
             </p>
-            <p class="font-display text-lg text-white ml-6 mr-4">
+            <p class="font-display text-lg text-black ml-6 mr-4">
               Director Product Marketing, PASKR
             </p>
-            <p class="font-display text-sm text-white ml-6 mr-4 mt-4">
+            <p class="font-display text-sm text-black ml-6 mr-4 mt-4">
               <b>AUG 2015 - JAN 2017</b>
             </p>
-            <p class="font-display text-lg text-white ml-6 mr-4">
+            <p class="font-display text-lg text-black ml-6 mr-4">
               Director Strategic Initiatives, Ingo Money
             </p>
-            <p class="font-display text-sm text-white ml-6 mr-4 mt-4">
+            <p class="font-display text-sm text-black ml-6 mr-4 mt-4">
               <b>OCT 2014 - AUG 2015</b>
             </p>
-            <p class="font-display text-lg text-white ml-6 mr-4">
+            <p class="font-display text-lg text-black ml-6 mr-4">
               Head of Product, The Mothership
             </p>
-            <p class="font-display text-sm text-white ml-6 mr-4 mt-4">
+            <p class="font-display text-sm text-black ml-6 mr-4 mt-4">
               <b>MAY 2013 - OCT 2014</b>
             </p>
-            <p class="font-display text-lg text-white ml-6 mr-4">
+            <p class="font-display text-lg text-black ml-6 mr-4">
               Project Manager, Healthstream
             </p>
-            <p class="font-display text-sm text-white ml-6 mr-4 mt-4">
+            <p class="font-display text-sm text-black ml-6 mr-4 mt-4">
               <b>NOV 2012 - MAY 2013</b>
             </p>
-            <p class="font-display text-lg text-white ml-6 mr-4">
+            <p class="font-display text-lg text-black ml-6 mr-4">
               Product Manager (contract), State of TN OISDCS
             </p>
-            <p class="font-display text-sm text-white ml-6 mr-4 mt-4">
+            <p class="font-display text-sm text-black ml-6 mr-4 mt-4">
               <b>JAN 2011 - NOV 2012</b>
             </p>
-            <p class="font-display text-lg text-white ml-6 mr-4">
+            <p class="font-display text-lg text-black ml-6 mr-4">
               Product Manager, Agra Avant Garde
             </p>
-            <p class="font-display text-sm text-white ml-6 mr-4 mt-4">
+            <p class="font-display text-sm text-black ml-6 mr-4 mt-4">
               <b>MAY 2010 - JAN 2011</b>
             </p>
-            <p class="font-display text-lg text-white ml-6 mr-4">
+            <p class="font-display text-lg text-black ml-6 mr-4">
               Business Systems Analyst (contract), Primary Care Associates
             </p>
-            <p class="font-display text-sm text-white ml-6 mr-4 mt-4">
+            <p class="font-display text-sm text-black ml-6 mr-4 mt-4">
               <b>AUG 2008 - MAY 2010</b>
             </p>
-            <p class="font-display text-lg text-white ml-6 mr-4">
+            <p class="font-display text-lg text-black ml-6 mr-4">
               Marketing Associate, Electronic Arts
             </p>
-            <p class="font-display text-white text-md ml-6 mr-4 mt-12">
+            <p class="font-display text-black text-md ml-6 mr-4 mt-12">
               Designed and developed by Justin Tannenbaum with <a href="https://tailwindcss.com/" class="underline" target="_blank">Tailwind CSS</a> and the <a href="https://laravel.com/" target="_blank" class="underline">Laravel Framework</a>. View the source for this project <a href="https://github.com/Just1nT/jtweb3#jtweb3" target="_blank" class="underline">here</a>.
             </p>
           </div>
