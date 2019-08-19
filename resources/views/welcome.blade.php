@@ -77,7 +77,7 @@
                 <div class="relative">
                     <div class="relative lg:flex rounded-lg shadow-2xl overflow-hidden">
                         <div class="h-56 lg:h-auto lg:w-6/12 relative flex items-center justify-center">
-                            <img class="absolute h-full w-full object-cover" src="/images/ingo-money.jpg" alt="" />
+                            <img class="absolute h-full w-full object-cover" src="/images/ingo.jpg" alt="" />
                             <div class="absolute inset-0">
                             </div>
                         </div>
