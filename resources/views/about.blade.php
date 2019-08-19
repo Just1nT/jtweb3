@@ -26,7 +26,7 @@
                 <a href="/about" class="block mt-4 lg:inline-block lg:mt-0 text-black mr-6">
                   About
                 </a>
-                <a href="/about" class="block mt-4 lg:inline-block lg:mt-0 text-black mr-6">
+                <a href="/blog" class="block mt-4 lg:inline-block lg:mt-0 text-black mr-6">
                   Blog
                 </a>
                 <a href="mailto:justinedwardtannenbaum@gmail.com" class="block mt-4 mr-6 lg:inline-block lg:mt-0 text-black">
