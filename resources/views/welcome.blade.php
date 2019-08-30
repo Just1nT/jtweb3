@@ -62,6 +62,39 @@
                                     <strong>PRODUCT</strong>
                                 </p>
                                 <p class="font-display mb-6 text-4xl">
+                                    ABBOTT
+                                </p>
+                                <p class="text-gray-900 font-medium">
+                                    HeartMate Touch is a BLE enabled iPad application that connects to & communicates with an embeddable LVAD heart pump.
+                                </p>
+                                <p class="mt-6">
+                                    <a href="paskr" class="font-display font-medium text-black hover:text-green-700 underline">VIEW CASE STUDY &rarr;</a>
+                                </p>
+                                <p class="text-sm mt-12 text-black">
+                                    #HealthTech #Bluetooth #B2B #iPad
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="max-w-6xl mx-auto px-8 py-16">
+                <div class="relative">
+                    <div class="relative lg:flex rounded-lg shadow-2xl overflow-hidden">
+                        <div class="h-56 lg:h-auto lg:w-6/12 relative flex items-center justify-center">
+                            <img class="absolute h-full w-full object-cover" src="/images/paskr-macbook.jpg" alt="" />
+                            <div class="absolute inset-0">
+                            </div>
+                        </div>
+                        <div class="relative lg:w-6/12 bg-white">
+                            <svg class="absolute h-full text-white w-24 -ml-12" fill="currentColor" viewBox="0 0 100 100" preserveAspectRatio="none">
+                                <polygon points="50,0 100,0 50,100 0,100"/>
+                            </svg>
+                            <div class="font-display relative py-12 lg:py-24 px-8 lg:px-16 text-black leading-relaxed">
+                                <p class="font-display mb-2 text-sm">
+                                    <strong>PRODUCT</strong>
+                                </p>
+                                <p class="font-display mb-6 text-4xl">
                                     PASKR
                                 </p>
                                 <p class="text-gray-900 font-medium">
