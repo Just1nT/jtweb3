@@ -32,10 +32,10 @@
                                     <strong>PRODUCT</strong>
                                 </p>
                                 <p class="font-display mb-6 text-4xl">
-                                    UNDISCLOSED
+                                    Undisclosed
                                 </p>
                                 <p class="text-gray-900 font-medium">
-                                    a new HealthTech SaaS currently operating in stealth mode. Anticpated go to market, Q4 2019.
+                                    a new enterprise HealthTech SaaS currently operating in stealth mode. Anticpated go to market, Q4 2019.
                                 </p>
                                 <p class="text-sm mt-12 text-black">
                                     #HealthTech #SaaS #B2B #Web
@@ -62,16 +62,49 @@
                                     <strong>PRODUCT</strong>
                                 </p>
                                 <p class="font-display mb-6 text-4xl">
-                                    UNDISCLOSED
+                                    Undisclosed
                                 </p>
                                 <p class="text-gray-900 font-medium">
-                                    a new enterprise product currently in development. Anticpiated go to market, Q1 2020.
+                                    a new enterprise SaaS product currently in development. Anticpiated go to market, Q1 2020.
                                 </p>
                                 <p class="mt-6">
                                     <!--<a href="paskr" class="font-display font-medium text-black hover:text-green-700 underline">VIEW CASE STUDY &rarr;</a>-->
                                 </p>
                                 <p class="text-sm mt-12 text-black">
                                     #HealthTech #Data #B2B #Web
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="max-w-6xl mx-auto px-8 py-16">
+                <div class="relative">
+                    <div class="relative lg:flex rounded-lg shadow-2xl overflow-hidden">
+                        <div class="h-56 lg:h-auto lg:w-6/12 relative flex items-center justify-center">
+                            <img class="absolute h-full w-full object-cover" src="/images/webflow.jpg" alt="webflow logo" />
+                            <div class="absolute inset-0">
+                            </div>
+                        </div>
+                        <div class="relative lg:w-6/12 bg-white">
+                            <svg class="absolute h-full text-white w-24 -ml-12" fill="currentColor" viewBox="0 0 100 100" preserveAspectRatio="none">
+                                <polygon points="50,0 100,0 50,100 0,100"/>
+                            </svg>
+                            <div class="font-display relative py-12 lg:py-24 px-8 lg:px-16 text-black leading-relaxed">
+                                <p class="font-display mb-2 text-sm">
+                                    <strong>PRODUCT</strong>
+                                </p>
+                                <p class="font-display mb-6 text-4xl">
+                                    Webflow
+                                </p>
+                                <p class="text-gray-900 font-medium">
+                                    gives you the power to design, build, and launch responsive websites visually, while writing clean, semantic code for you.
+                                </p>
+                                <p class="mt-6">
+                                    <!--<a href="paskr" class="font-display font-medium text-black hover:text-green-700 underline">VIEW CASE STUDY &rarr;</a>-->
+                                </p>
+                                <p class="text-sm mt-12 text-black">
+                                    #NoCode #Design #B2C #Web
                                 </p>
                             </div>
                         </div>
@@ -115,7 +148,40 @@
                 <div class="relative">
                     <div class="relative lg:flex rounded-lg shadow-2xl overflow-hidden">
                         <div class="h-56 lg:h-auto lg:w-6/12 relative flex items-center justify-center">
-                            <img class="absolute h-full w-full object-cover" src="/images/paskr-macbook.jpg" alt="paskr web application on a macbook" />
+                            <img class="absolute h-full w-full object-cover" src="/images/carevive.jpg" alt="carvive logo" />
+                            <div class="absolute inset-0">
+                            </div>
+                        </div>
+                        <div class="relative lg:w-6/12 bg-white">
+                            <svg class="absolute h-full text-white w-24 -ml-12" fill="currentColor" viewBox="0 0 100 100" preserveAspectRatio="none">
+                                <polygon points="50,0 100,0 50,100 0,100"/>
+                            </svg>
+                            <div class="font-display relative py-12 lg:py-24 px-8 lg:px-16 text-black leading-relaxed">
+                                <p class="font-display mb-2 text-sm">
+                                    <strong>PRODUCT</strong>
+                                </p>
+                                <p class="font-display mb-6 text-4xl">
+                                    Carevive
+                                </p>
+                                <p class="text-gray-900 font-medium">
+                                    an EHR-integrated oncology care management software application.
+                                </p>
+                                <p class="mt-6">
+                                    <!--<a href="paskr" class="font-display font-medium text-black hover:text-green-700 underline">VIEW CASE STUDY &rarr;</a>-->
+                                </p>
+                                <p class="text-sm mt-12 text-black">
+                                    #HealthTech #B2B #CancerSucks #Web
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="max-w-6xl mx-auto px-8 py-16">
+                <div class="relative">
+                    <div class="relative lg:flex rounded-lg shadow-2xl overflow-hidden">
+                        <div class="h-56 lg:h-auto lg:w-6/12 relative flex items-center justify-center">
+                            <img class="absolute h-full w-full object-cover" src="/images/paskr.jpg" alt="paskr logo" />
                             <div class="absolute inset-0">
                             </div>
                         </div>

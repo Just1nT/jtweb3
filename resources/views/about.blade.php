@@ -53,7 +53,7 @@
           </div>
           <div class="lg:w-1/2">
             <p class="font-display text-lg text-black ml-6 mr-4 mt-24">
-              Hey y'all, I am a strategic digital product leader based in Nashville, TN. I consult & freelance on product design, development, and management through my company JET Digital. I’m passionate about building empathetic user experiences and enjoy solving mission critical business problems by leveraging modern technology solutions.
+              Hey y'all, I am a strategic product leader based in Nashville, TN. I consult on digital product design, development, and management through my company JET Digital. I’m passionate about building empathetic user experiences and enjoy solving mission critical business problems by leveraging modern technology solutions.
             </p>
             <p class="font-display text-lg text-black ml-6 mr-4 mt-12">
               In my free time, I enjoy golf, food + drink, & sports.
