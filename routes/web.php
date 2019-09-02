@@ -22,3 +22,7 @@ Route::get('/about', function () {
 Route::get('/blog', function () {
     return view('blog');
 });
+
+Route::get('/coming-soon', function () {
+    return view('coming-soon');
+});

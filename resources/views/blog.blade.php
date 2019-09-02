@@ -4,7 +4,7 @@
         <!-- Meta -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>About</title>
+        <title>Blog by Justin Tannenbaum</title>
         <meta name="description" content="#"/>
         <!-- Styles -->
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">

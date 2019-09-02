@@ -4,7 +4,7 @@
         <!-- Meta -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Justin Tannenbaum</title>
+        <title>Justin Tannenbaum - Nashville Digital Product Leader</title>
         <meta name="description" content="#"/>
         <!-- Styles -->
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
@@ -37,6 +37,9 @@
                                 <p class="text-gray-900 font-medium">
                                     a new enterprise HealthTech SaaS currently operating in stealth mode. Anticpated go to market, Q4 2019.
                                 </p>
+                                <p class="mt-6">
+                                    <a href="coming-soon" class="font-display font-medium text-black hover:text-green-700 underline">COMING SOON: VIEW CASE STUDY &rarr;</a>
+                                </p>
                                 <p class="text-sm mt-12 text-black">
                                     #HealthTech #SaaS #B2B #Web
                                 </p>
@@ -68,8 +71,7 @@
                                     a new enterprise SaaS product currently in development. Anticpiated go to market, Q1 2020.
                                 </p>
                                 <p class="mt-6">
-                                    <!--<a href="paskr" class="font-display font-medium text-black hover:text-green-700 underline">VIEW CASE STUDY &rarr;</a>-->
-                                </p>
+                                    <a href="coming-soon" class="font-display font-medium text-black hover:text-green-700 underline">COMING SOON: VIEW CASE STUDY &rarr;</a>                                </p>
                                 <p class="text-sm mt-12 text-black">
                                     #HealthTech #Data #B2B #Web
                                 </p>
@@ -101,7 +103,7 @@
                                     gives you the power to design, build, and launch responsive websites visually, while writing clean, semantic code for you.
                                 </p>
                                 <p class="mt-6">
-                                    <!--<a href="paskr" class="font-display font-medium text-black hover:text-green-700 underline">VIEW CASE STUDY &rarr;</a>-->
+                                    <a href="coming-soon" class="font-display font-medium text-black hover:text-green-700 underline">COMING SOON: VIEW CASE STUDY &rarr;</a>
                                 </p>
                                 <p class="text-sm mt-12 text-black">
                                     #NoCode #Design #B2C #Web
@@ -134,7 +136,7 @@
                                     HeartMate Touch is a BLE enabled iPad application that connects & communicates to an embeddable LVAD heart pump.
                                 </p>
                                 <p class="mt-6">
-                                    <!--<a href="paskr" class="font-display font-medium text-black hover:text-green-700 underline">VIEW CASE STUDY &rarr;</a>-->
+                                    <a href="coming-soon" class="font-display font-medium text-black hover:text-green-700 underline">COMING SOON: VIEW CASE STUDY &rarr;</a>
                                 </p>
                                 <p class="text-sm mt-12 text-black">
                                     #HealthTech #Bluetooth #B2B #iPad
@@ -167,8 +169,8 @@
                                     an EHR-integrated oncology care management software application.
                                 </p>
                                 <p class="mt-6">
-                                    <!--<a href="paskr" class="font-display font-medium text-black hover:text-green-700 underline">VIEW CASE STUDY &rarr;</a>-->
-                                </p>
+                                    <a href="coming-soon" class="font-display font-medium text-black hover:text-green-700 underline">COMING SOON: VIEW CASE STUDY &rarr;</a>
+                                </p>                                </p>
                                 <p class="text-sm mt-12 text-black">
                                     #HealthTech #B2B #CancerSucks #Web
                                 </p>
@@ -200,7 +202,7 @@
                                     a cloud based commercial construction management solution built for every member of a construction team to bid, build, and track great projects.
                                 </p>
                                 <p class="mt-6">
-                                    <!--<a href="paskr" class="font-display font-medium text-black hover:text-green-700 underline">VIEW CASE STUDY &rarr;</a>-->
+                                    <a href="coming-soon" class="font-display font-medium text-black hover:text-green-700 underline">COMING SOON: VIEW CASE STUDY &rarr;</a>
                                 </p>
                                 <p class="text-sm mt-12 text-black">
                                     #ConstrucTech #SaaS #B2B #MultiPlatform
@@ -233,7 +235,7 @@
                                     is the instant money company. Founded in 2001 with a mission to digitize the paper check, their push payments technologies enables businesses and banks to instantly disburse safe-to-spend funds to almost any debit, credit or online wallet account.
                                 </p>
                                 <p class="mt-6">
-                                    <!--<a href="ingo-money" class="font-display font-medium text-black hover:text-green-700 underline">VIEW CASE STUDY &rarr;</a>-->
+                                    <a href="coming-soon" class="font-display font-medium text-black hover:text-green-700 underline">COMING SOON: VIEW CASE STUDY &rarr;</a>
                                 </p>
                                 <p class="text-sm mt-12 text-black">
                                     #FinTech #PaaS #B2C #B2B #Mobile #API
@@ -266,7 +268,7 @@
                                     a first of its kind audience analytics solution. Acquired by FLO | Thinkery.
                                 </p>
                                 <p class="mt-6">
-                                    <!--<a href="mothership" class="font-display font-medium text-black hover:text-green-700 underline">VIEW CASE STUDY &rarr;</a>-->
+                                    <a href="coming-soon" class="font-display font-medium text-black hover:text-green-700 underline">COMING SOON: VIEW CASE STUDY &rarr;</a>
                                 </p>
                                 <p class="text-sm mt-12 text-black">
                                     #DataAnalytics #SaaS #B2B #MachineLearning
@@ -299,7 +301,7 @@
                                     (NASDAQ: HSTM) a suite of solutions used by approximately 4.8 million healthcare employees in the U.S. for workforce development, training & learning, talent, credentialing, privileging, provider enrollment, performance assessment, and managing simulation-based education programs.
                                 </p>
                                 <p class="mt-6">
-                                    <!--<a href="mothership" class="font-display font-medium text-black hover:text-green-700 underline">VIEW CASE STUDY &rarr;</a>-->
+                                    <a href="coming-soon" class="font-display font-medium text-black hover:text-green-700 underline">COMING SOON: VIEW CASE STUDY &rarr;</a>
                                 </p>
                                 <p class="text-sm mt-12 text-black">
                                     #HealthTech #SaaS #B2B2C #Web #Learning
