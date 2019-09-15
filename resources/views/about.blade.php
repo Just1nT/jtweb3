@@ -70,58 +70,34 @@
               <b>Experience</b>
             </p>
             <p class="font-display text-sm text-black ml-6 mr-4 mt-4">
-              <b>JAN 2019 - PRESENT</b>
+              <b>2019 - PRESENT</b>
             </p>
             <p class="font-display text-lg text-black ml-6 mr-4">
               Principal, JET Digital
             </p>
             <p class="font-display text-sm text-black ml-6 mr-4 mt-4">
-              <b>JAN 2017 - JAN 2019</b>
+              <b>2017 - 2019</b>
             </p>
             <p class="font-display text-lg text-black ml-6 mr-4">
               Director Product Marketing, PASKR
             </p>
             <p class="font-display text-sm text-black ml-6 mr-4 mt-4">
-              <b>AUG 2015 - JAN 2017</b>
+              <b>2015 - 2017</b>
             </p>
             <p class="font-display text-lg text-black ml-6 mr-4">
               Director Strategic Initiatives, Ingo Money
             </p>
             <p class="font-display text-sm text-black ml-6 mr-4 mt-4">
-              <b>OCT 2014 - AUG 2015</b>
+              <b>2012 - 2014</b>
             </p>
             <p class="font-display text-lg text-black ml-6 mr-4">
-              Head of Product, The Mothership
+              Technical Project Manager, Healthstream
             </p>
             <p class="font-display text-sm text-black ml-6 mr-4 mt-4">
-              <b>MAY 2013 - OCT 2014</b>
+              <b>2008 - 2012</b>
             </p>
             <p class="font-display text-lg text-black ml-6 mr-4">
-              Project Manager, Healthstream
-            </p>
-            <p class="font-display text-sm text-black ml-6 mr-4 mt-4">
-              <b>NOV 2012 - MAY 2013</b>
-            </p>
-            <p class="font-display text-lg text-black ml-6 mr-4">
-              Product Manager (contract), State of TN OISDCS
-            </p>
-            <p class="font-display text-sm text-black ml-6 mr-4 mt-4">
-              <b>JAN 2011 - NOV 2012</b>
-            </p>
-            <p class="font-display text-lg text-black ml-6 mr-4">
-              Product Manager, Agra Avant Garde
-            </p>
-            <p class="font-display text-sm text-black ml-6 mr-4 mt-4">
-              <b>MAY 2010 - JAN 2011</b>
-            </p>
-            <p class="font-display text-lg text-black ml-6 mr-4">
-              Business Systems Analyst (contract), Primary Care Associates
-            </p>
-            <p class="font-display text-sm text-black ml-6 mr-4 mt-4">
-              <b>AUG 2008 - MAY 2010</b>
-            </p>
-            <p class="font-display text-lg text-black ml-6 mr-4">
-              Marketing Associate, Electronic Arts
+              Product Marketing Manager, Electronic Arts
             </p>
             <p class="font-display text-black text-md ml-6 mr-4 mt-12">
               Designed and developed by Justin Tannenbaum with <a href="https://tailwindcss.com/" class="underline text-blue-700" target="_blank">Tailwind CSS</a> and the <a href="https://laravel.com/" target="_blank" class="underline text-blue-700">Laravel Framework</a>. View the source for this project <a href="https://github.com/Just1nT/jtweb3#jtweb3" target="_blank" class="underline text-blue-700">here</a>.
