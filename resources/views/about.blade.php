@@ -17,9 +17,10 @@
           gtag('config', 'UA-45906229-1');
         </script>
     </head>
-    @include('layouts.nav')
     <body class="bg-gray-100">
-      <div class="container mx-auto px-4">
+      <div id='app' class="container mx-auto px-4">
+        <Navbar>
+        </Navbar>
         <div class="flex flex-wrap mb-4">
           <div class="lg:w-1/2">
             <div class="flex bg-cover bg-center w-64 h-64 mt-24 lg:mx-16 rounded-full flex shadow-lg border-4 border-white" alt="Justin Tannenbaum" style="background-image: url(images/justin-tannenbaum.jpg)">
@@ -64,7 +65,7 @@
               Hey y'all, I am a strategic product leader based in Nashville, TN. I consult on digital product design, development, and management through my company JET Digital. I’m passionate about building empathetic user experiences and enjoy solving mission critical business problems by leveraging modern technology solutions.
             </p>
             <p class="font-display text-lg text-black ml-6 mr-4 mt-12">
-              In my free time, I enjoy golf, food + drink, & sports.
+              In my free time, I enjoy live music, sports, video games, and my two cats Ryman & Banjo.
             </p>
             <p class="font-display text-xl text-black ml-6 mr-4 mt-12">
               <b>Experience</b>
@@ -105,5 +106,7 @@
           </div>
         </div>
       </div>
+
+      <script src="/js/app.js"></script>
     </body>
 </html>
