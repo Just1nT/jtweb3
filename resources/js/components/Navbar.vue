@@ -10,16 +10,16 @@
     </div>
     <div class="relative right-0 w-full block flex-grow lg:flex lg:absolute lg:items-center lg:w-auto mr-8">
         <div :class="isOpen ? 'block' : 'hidden' " class="font-display text-white text-md lg:flex-grow">
-            <a href="/" class="block px-2 py-1 rounded hover:bg-gray-900 mt-4 lg:inline-block lg:mt-0 mr-6">
+            <a href="/" class="block px-2 py-1 rounded hover:bg-gray-900 text-white mt-4 lg:inline-block lg:mt-0 mr-6">
               Work
             </a>
-            <a href="/about" class="mt-1 block px-2 py-1 rounded hover:bg-gray-900 mt-4 lg:inline-block lg:mt-0 mr-6">
+            <a href="/about" class="mt-1 block px-2 py-1 rounded hover:bg-gray-900 text-white mt-4 lg:inline-block lg:mt-0 mr-6">
               About
             </a>
-            <a href="/blog" class="mt-1 block px-2 py-1 rounded hover:bg-gray-900 mt-4 lg:inline-block lg:mt-0 mr-6">
+            <a href="/blog" class="mt-1 block px-2 py-1 rounded hover:bg-gray-900 text-white mt-4 lg:inline-block lg:mt-0 mr-6">
               Blog
             </a>
-            <a href="mailto:justinedwardtannenbaum@gmail.com" class="mt-1 block px-2 py-1 rounded hover:bg-gray-900 mt-4 mr-6 lg:inline-block lg:mt-0">
+            <a href="mailto:justinedwardtannenbaum@gmail.com" class="mt-1 block px-2 py-1 rounded hover:bg-gray-900 text-white mt-4 mr-6 lg:inline-block lg:mt-0">
               Contact
             </a>
         </div>
