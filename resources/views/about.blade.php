@@ -102,7 +102,7 @@
                   Product Marketing Manager, Electronic Arts
                 </p>
                 <p class="font-display text-black text-md ml-6 mr-4 mt-12">
-                  Designed and developed by Justin Tannenbaum with <a href="https://tailwindcss.com/" class="underline text-blue-700" target="_blank">Tailwind CSS</a> and the <a href="https://laravel.com/" target="_blank" class="underline text-blue-700">Laravel Framework</a>. View the source for this project <a href="https://github.com/Just1nT/jtweb3#jtweb3" target="_blank" class="underline text-blue-700">here</a>.
+                  Designed and developed by Justin Tannenbaum with <a href="https://tailwindcss.com/" class="underline text-blue-700" target="_blank">Tailwind CSS</a>, the <a href="https://laravel.com/" target="_blank" class="underline text-blue-700">Laravel Framework</a> and <a href="https://vuejs.org/" target="_blank" class="underline text-blue-700">Vue.js</a>. View the source for this project <a href="https://github.com/Just1nT/jtweb3#jtweb3" target="_blank" class="underline text-blue-700">here</a>.
                 </p>
               </div>
             </div>
