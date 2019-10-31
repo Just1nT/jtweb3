@@ -17,12 +17,16 @@
           gtag('config', 'UA-45906229-1');
         </script>
     </head>
-    @include('layouts.nav')
-    <body class="bg-gray-100">
+    <div id="app">
+      <body class="bg-gray-100">
+        <Navbar>
+        </Navbar>
         <div class="container mx-auto px-4">
           <div class="font-display text-black text-4xl text-center mt-24">
             <h1>Case Study Coming Soon</h1>
           </div>
-      </div> <!-- Container -->
-    </body>
+        </div> <!-- Container -->
+      </body>
+    </div><!--app-->
+    <script src="/js/app.js"></script>
 </html>
