@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>About Justin Tannenbaum a Nashville Digital Product Leader</title>
-        <meta name="description" content="#"/>
+        <meta name="description" content="about Justin Tannenbaum"/>
         <!-- Styles -->
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
         <!-- Global site tag (gtag.js) - Google Analytics -->

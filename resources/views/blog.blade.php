@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Blog by Justin Tannenbaum</title>
-        <meta name="description" content="#"/>
+        <meta name="description" content="a blog by Justin Tannenbaum"/>
         <!-- Styles -->
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
         <!-- Global site tag (gtag.js) - Google Analytics -->

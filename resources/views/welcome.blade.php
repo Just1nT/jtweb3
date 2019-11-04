@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Justin Tannenbaum - Nashville Digital Product Leader</title>
-        <meta name="description" content="Digital Product Innovation Studio based in Nashville, TN. Specializing in product design, management, and marketing."/>
+        <meta name="description" content="Digital Product Innovation Leader based in Nashville, TN. Specializing in product design, management, and marketing."/>
         <meta name="robots" content="index, follow">
         <!-- Styles -->
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
